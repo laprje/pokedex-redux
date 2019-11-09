@@ -3,9 +3,10 @@
   height: 600px;
   position: relative;
   .background {
-    background: #ed1f24;
-    border-radius: 10px;
+    background: #553e1f;
+    border-radius: 50%;
     min-height: 100%;
+    
   }
   .camera-circle {
     width: 60px;
@@ -13,7 +14,7 @@
     background-image: radial-gradient(
       closest-side at 40% 40%,
       #c7cae7,
-      #2d3b90
+      #171e52
     );
     border-radius: 50%;
     border: 5px solid #111111;
